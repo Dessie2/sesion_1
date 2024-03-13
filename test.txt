@@ -5,3 +5,6 @@ Taller de Git y GITHUB
 hola
 
 1000
+git 
+
+se cambio el coso de los estilos
